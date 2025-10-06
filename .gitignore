@@ -14,6 +14,7 @@ __pycache__/
 *.pyx
 *.py[cod]
 *.egg-info/
+build/
 
 # Documentation builds
 doc/OnlineDocs/_build
